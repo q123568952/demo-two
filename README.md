@@ -3,4 +3,4 @@ Example of GH repo starting on  remote side with new branch name
 
 update readme file
 
-anothet quick update
+another quick update
